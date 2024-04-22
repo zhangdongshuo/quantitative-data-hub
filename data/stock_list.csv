@@ -5363,3 +5363,246 @@ security_code,symbol,name,area,industry,fullname,enname,cnspell,market,exchange,
 873806.BJ,873806,云星宇,北京,软件服务,北京云星宇交通科技股份有限公司,Beijing Yunxingyu Traffic Technology Ltd,yxy,北交所,BSE,CNY,L,2024-01-11,,N,2024-04-22
 873833.BJ,873833,美心翼申,重庆,汽车配件,重庆美心翼申机械股份有限公司,"Chongqing Meixin Yishen Machinery Co.,Ltd.",mxys,北交所,BSE,CNY,L,2023-11-08,,N,2024-04-22
 689009.SH,689009,九号公司-WD,北京,摩托车,九号有限公司,Ninebot Limited,jhgs,科创板,SSE,CNY,L,2020-10-29,,,2024-04-22
+000003.SZ,000003,PT金田A(退),,,金田实业(集团)股份有限公司,"Gintian Industry (Group) Co., Ltd.",ptjta,主板,SZSE,CNY,D,1991-07-03,2002-06-14,N,2024-04-22
+000013.SZ,000013,*ST石化A(退),,,深圳石化工业集团股份有限公司,"Shenzhen Petrochemical Industry(Group) Co.,Ltd.",stsha,主板,SZSE,CNY,D,1992-05-06,2004-09-20,N,2024-04-22
+000015.SZ,000015,PT中浩A(退),,,深圳中浩(集团)股份有限公司,Shenzhen Zhonghao (Group) Company Limited,ptzha,主板,SZSE,CNY,D,1992-06-25,2001-10-22,N,2024-04-22
+000018.SZ,000018,神城A退(退),,,神州长城股份有限公司,"Sino Great Wall Co., Ltd.",scat,主板,SZSE,CNY,D,1992-06-16,2020-01-07,N,2024-04-22
+000024.SZ,000024,招商地产(退),,,招商局地产控股股份有限公司,"China Merchants Property Development Co., Ltd.",zsdc,主板,SZSE,CNY,D,1993-06-07,2015-12-30,N,2024-04-22
+000033.SZ,000033,新都退(退),,,深圳鹍鹏控股股份有限公司,"Shenzhen Kunpeng Holding Co., Ltd.",xdt,主板,SZSE,CNY,D,1994-01-03,2017-07-07,N,2024-04-22
+000038.SZ,000038,大通退(退),,,深圳大通实业股份有限公司,"Shenzhen Capstone Industrial Co., Ltd.",dtt,主板,SZSE,CNY,D,1994-08-08,2023-07-12,N,2024-04-22
+000046.SZ,000046,*ST泛海(退),,,泛海控股股份有限公司,"Oceanwide Holdings Co., Ltd.",stfh,主板,SZSE,CNY,D,1994-09-12,2024-02-07,N,2024-04-22
+000047.SZ,000047,ST中侨(退),,,深圳市中侨发展股份有限公司,"Shenzhen Overglobe Development Co.,Ltd.",stzq,主板,SZSE,CNY,D,1994-10-21,2003-05-30,N,2024-04-22
+000150.SZ,000150,*ST宜康(退),,,宜华健康医疗股份有限公司,"Yihua Healthcare Co.,Ltd.",styk,主板,SZSE,CNY,D,2000-08-07,2023-06-09,N,2024-04-22
+000405.SZ,000405,ST鑫光(退),,,珠海金马控股股份有限公司,"Zhuhai Kingma Holding Co.,Ltd",stxg,主板,SZSE,CNY,D,1996-06-20,2004-03-19,N,2024-04-22
+000406.SZ,000406,石油大明(退),,,中国石化胜利油田大明(集团)股份有限公司,"Sinopec Shengli Oil Field Dynamic Group Co.,Ltd",sydm,主板,SZSE,CNY,D,1996-06-28,2006-04-21,N,2024-04-22
+000412.SZ,000412,ST五环(退),,,长春北方五环实业股份有限公司,"Changchun North China Wuhuan Co.,Ltd",stwh,主板,SZSE,CNY,D,1996-07-15,2003-09-19,N,2024-04-22
+000418.SZ,000418,小天鹅A(退),,,无锡小天鹅股份有限公司,Wuxi Little Swan Company Limited,xtea,主板,SZSE,CNY,D,1997-03-28,2019-06-21,N,2024-04-22
+000502.SZ,000502,绿景退(退),,,绿景控股股份有限公司,"Lvjing Holding Co., Ltd.",ljt,主板,SZSE,CNY,D,1992-11-23,2022-06-27,N,2024-04-22
+000508.SZ,000508,琼民源A(退),,,海南民源现代农业发展股份有限公司,"Hainan Minyuan Modern Agriculture Development Co.,Ltd",qmya,主板,SZSE,CNY,D,1993-04-30,1999-07-12,N,2024-04-22
+000511.SZ,000511,烯碳退(退),,,银基烯碳新材料集团股份有限公司,"Ingenious Ene-Carbon New Materials Group Co.,Ltd.",xtt,主板,SZSE,CNY,D,1993-05-18,2018-07-18,N,2024-04-22
+000515.SZ,000515,攀渝钛业(退),,,攀钢集团重庆钛业有限公司,Chongqing Titanium Industry Co.Ltd of Pangang Group,pyty,主板,SZSE,CNY,D,1993-07-12,2009-05-06,N,2024-04-22
+000522.SZ,000522,白云山A(退),,,广州白云山制药股份有限公司,"Guangzhou Baiyunshan Pharmaceutical Co.,Ltd.",bysa,主板,SZSE,CNY,D,1993-11-08,2013-04-26,N,2024-04-22
+000527.SZ,000527,美的电器(退),,,广东美的电器股份有限公司,"Gd Midea Holding Co.,Ltd.",mddq,主板,SZSE,CNY,D,1993-11-12,2013-09-18,N,2024-04-22
+000535.SZ,000535,*ST猴王(退),,,猴王股份有限公司,"Kmk Co.,Ltd",sthw,主板,SZSE,CNY,D,1993-11-30,2005-09-21,N,2024-04-22
+000540.SZ,000540,*ST中天(退),,,中天金融集团股份有限公司,Zhongtian Financial Group Company Limited,stzt,主板,SZSE,CNY,D,1994-02-02,2023-06-30,N,2024-04-22
+000542.SZ,000542,TCL通讯(退),,,TCL通讯设备股份有限公司,"Tcl Communication Equipment Co.,Ltd.",tcltx,主板,SZSE,CNY,D,1993-12-01,2004-01-13,N,2024-04-22
+000549.SZ,000549,S湘火炬(退),,,湘火炬汽车集团股份有限公司,"Torch Automobile Group Co.,Ltd",sxhj,主板,SZSE,CNY,D,1993-12-20,2007-04-27,N,2024-04-22
+000556.SZ,000556,PT南洋(退),,,新征程能源产业股份有限公司,"New Journey Energy Industry Co., Ltd",ptny,主板,SZSE,CNY,D,1994-05-25,2002-05-29,N,2024-04-22
+000562.SZ,000562,宏源证券(退),,,宏源证券股份有限公司,"Hong Yuan Securities Co., Ltd.",hyzq,主板,SZSE,CNY,D,1994-02-02,2015-01-26,N,2024-04-22
+000569.SZ,000569,长城股份(退),,,攀钢集团江油长城特殊钢有限公司,"Pangang Group Sichuan Changcheng Special Steel Co.,Ltd.",ccgf,主板,SZSE,CNY,D,1994-04-25,2009-05-06,N,2024-04-22
+000578.SZ,000578,盐湖集团(退),,,青海盐湖工业集团股份有限公司,"Qinghai Salt Lake Industry Group Co.,Ltd",yhjt,主板,SZSE,CNY,D,1995-03-03,2011-03-22,N,2024-04-22
+000583.SZ,000583,S*ST托普(退),,,四川托普软件投资股份有限公司,"Sichuan Topsoft Investment Co.,Ltd.",ssttp,主板,SZSE,CNY,D,1995-11-01,2007-05-21,N,2024-04-22
+000585.SZ,000585,东电退(退),,,东北电气发展股份有限公司,Northeast Electric Development Company Limited,ddt,主板,SZSE,CNY,D,1995-12-13,2022-05-24,N,2024-04-22
+000587.SZ,000587,*ST金洲(退),,,金洲慈航集团股份有限公司,"Jinzhou Cihang Group Co., Ltd",stjz,主板,SZSE,CNY,D,1996-04-25,2023-04-03,N,2024-04-22
+000588.SZ,000588,PT粤金曼(退),,,广东国晟高科技股份有限公司,"Guangdongguosheng High Technology Co.,Ltd",ptyjm,主板,SZSE,CNY,D,1996-01-23,2001-06-15,N,2024-04-22
+000594.SZ,000594,国恒退(退),,,天津国恒铁路控股股份有限公司,"Tianjin Good Hand Railway Holding Co., Ltd",ght,主板,SZSE,CNY,D,1996-03-20,2015-07-13,N,2024-04-22
+000602.SZ,000602,金马集团(退),,,广东金马旅游集团股份有限公司,"Guangdong Golden Horse Tourism Group Stock Co.,Ltd",jmjt,主板,SZSE,CNY,D,1996-08-19,2013-08-14,N,2024-04-22
+000606.SZ,000606,顺利退(退),,,顺利办信息服务股份有限公司,"Shunliban Information Service Co., Ltd",slt,主板,SZSE,CNY,D,1996-10-04,2023-07-06,N,2024-04-22
+000611.SZ,000611,天首退(退),,,内蒙古天首科技发展股份有限公司,"Inner Mongolia TianShou Technology&development, Co., Ltd.",tst,主板,SZSE,CNY,D,1996-10-08,2022-06-28,N,2024-04-22
+000613.SZ,000613,东海A退(退),,,海南大东海旅游中心股份有限公司,"Hainan Dadonghai Tourism Centre (Holdings) Co.,Ltd",dhat,主板,SZSE,CNY,D,1997-01-28,2022-06-29,N,2024-04-22
+000616.SZ,000616,*ST海投(退),,,海航投资集团股份有限公司,"Hna Investment Group Co.,Ltd",stht,主板,SZSE,CNY,D,1996-11-08,2023-08-23,N,2024-04-22
+000618.SZ,000618,吉林化工(退),,,吉林化学工业股份有限公司,Jilin Chemical Industrial Company Limited,jlhg,主板,SZSE,CNY,D,1996-10-15,2006-02-20,N,2024-04-22
+000621.SZ,000621,*ST比特(退),,,比特科技控股股份有限公司,"Bit Technology Holding Co.,Ltd.",stbt,主板,SZSE,CNY,D,1996-11-05,2004-09-27,N,2024-04-22
+000653.SZ,000653,ST九州(退),,,福建九州集团股份有限公司,"Fujian Jiuzhou Group Co.,Ltd",stjz,主板,SZSE,CNY,D,1996-11-26,2002-09-13,N,2024-04-22
+000658.SZ,000658,ST海洋(退),,,厦门海洋实业(集团)股份有限公司,"Xiamen Marine Industry (Group) Co., Ltd.",sthy,主板,SZSE,CNY,D,1996-12-18,2002-09-20,N,2024-04-22
+000660.SZ,000660,*ST南华(退),,,广州大通资源开发股份有限公司,"Guangzhou Datong Resource Development Co.,Ltd.",stnh,主板,SZSE,CNY,D,1996-12-09,2004-09-13,N,2024-04-22
+000662.SZ,000662,天夏退(退),,,天夏智慧城市科技股份有限公司,Teamax Smart City Technology Corporation Limited,txt,主板,SZSE,CNY,D,1996-12-16,2021-04-12,N,2024-04-22
+000666.SZ,000666,经纬纺机(退),,,经纬纺织机械股份有限公司,Jingwei Textile Machinery Company Limited,jwfj,主板,SZSE,CNY,D,1996-12-10,2023-10-26,N,2024-04-22
+000667.SZ,000667,ST美置(退),,,美好置业集团股份有限公司,"Myhome Real Estate Development Group Co.,Ltd.",stmz,主板,SZSE,CNY,D,1996-12-05,2023-07-14,N,2024-04-22
+000671.SZ,000671,ST阳光城(退),,,阳光城集团股份有限公司,"Yango Group Co.,Ltd",stygc,主板,SZSE,CNY,D,1996-12-18,2023-08-16,N,2024-04-22
+000673.SZ,000673,当代退(退),,,当代东方投资股份有限公司,"Lead Eastern Investment Co., Ltd",ddt,主板,SZSE,CNY,D,1997-01-24,2022-07-04,N,2024-04-22
+000675.SZ,000675,ST银山(退),,,四川银山化工(集团)股份有限公司,"Sichuan Yinshan Chemical Industry (Group) Co., Ltd",stys,主板,SZSE,CNY,D,1996-12-26,2002-08-20,N,2024-04-22
+000687.SZ,000687,华讯退(退),,,华讯方舟股份有限公司,"Huaxun Fangzhou Co., Ltd",hxt,主板,SZSE,CNY,D,1997-02-21,2022-06-17,N,2024-04-22
+000689.SZ,000689,ST宏业(退),,,汕头宏业(集团)股份有限公司,"Shantou Hongye(Group) Co.,Ltd.",sthy,主板,SZSE,CNY,D,1996-12-31,2002-09-05,N,2024-04-22
+000693.SZ,000693,华泽退(退),,,成都华泽钴镍材料股份有限公司,"Chengdu Huaze Cobalt&Nickel Material Co., Ltd",hzt,主板,SZSE,CNY,D,1997-02-26,2019-07-09,N,2024-04-22
+000699.SZ,000699,S*ST佳纸(退),,,佳木斯金地造纸股份有限公司,"Jiamusi Jindi Paper Co.,Ltd.",sstjz,主板,SZSE,CNY,D,1997-03-10,2007-04-04,N,2024-04-22
+000730.SZ,000730,*ST环保(退),,,沈阳天创信息科技股份有限公司,"Tico Information Technology Co.,Ltd.",sthb,主板,SZSE,CNY,D,1997-05-22,2004-09-24,N,2024-04-22
+000732.SZ,000732,ST泰禾(退),,,泰禾集团股份有限公司,"Tahoe Group Co., Ltd.",stth,主板,SZSE,CNY,D,1997-07-04,2023-08-04,N,2024-04-22
+000748.SZ,000748,长城信息(退),,,长城信息产业股份有限公司,"Greatwall Information Industry Co.,Ltd.",ccxx,主板,SZSE,CNY,D,1997-07-04,2017-01-18,N,2024-04-22
+000760.SZ,000760,斯太退(退),,,斯太尔动力股份有限公司,Steyr Motors Corp.,stt,主板,SZSE,CNY,D,1997-06-27,2021-07-23,N,2024-04-22
+000763.SZ,000763,锦州石化(退),,,锦州石化股份有限公司,"Jinzhou Petrochemical Co.,Ltd.",jzsh,主板,SZSE,CNY,D,1997-09-15,2006-01-04,N,2024-04-22
+000765.SZ,000765,*ST华信(退),,,汇绿生态科技集团股份有限公司,"Hui Lyu Ecological Technology Groups Co.,Ltd.",sthx,主板,SZSE,CNY,D,1997-11-03,2005-07-04,N,2024-04-22
+000769.SZ,000769,*ST大菲(退),,,博嘉信息科技股份有限公司,"Bojia Information Technology Co.,Ltd.",stdf,主板,SZSE,CNY,D,1997-05-30,2005-09-21,N,2024-04-22
+000780.SZ,000780,ST平能(退),,,内蒙古平庄能源股份有限公司,"Inner Mongolia Pingzhuang Energy Resources Co.,Ltd",stpn,主板,SZSE,CNY,D,1997-06-06,2022-01-24,N,2024-04-22
+000787.SZ,000787,*ST创智(退),,,天珑科技集团股份有限公司,"Tinno Technology Group Co., Ltd.",stcz,主板,SZSE,CNY,D,1997-06-26,2013-02-08,N,2024-04-22
+000805.SZ,000805,*ST炎黄(退),,,江苏高能时代在线股份有限公司,"Jiangsu Goral Times Online Co.,Ltd.",styh,主板,SZSE,CNY,D,1998-05-29,2013-03-27,N,2024-04-22
+000806.SZ,000806,银河退(退),,,北海银河生物产业投资股份有限公司,"Galaxybiomedical Investment Co., Ltd.",yht,主板,SZSE,CNY,D,1998-04-16,2023-07-06,N,2024-04-22
+000817.SZ,000817,辽河油田(退),,,辽河金马油田股份有限公司,Liaohe Jinma Oilfield Company Limited,lhyt,主板,SZSE,CNY,D,1998-05-28,2006-01-04,N,2024-04-22
+000827.SZ,000827,*ST长兴(退),,,大连长兴实业股份有限公司,"Dalian Changxing Industry Co.,Ltd.",stcx,主板,SZSE,CNY,D,1998-10-16,2005-09-21,N,2024-04-22
+000832.SZ,000832,*ST龙涤(退),,,黑龙江龙涤股份有限公司,"Heilongjiang Longdi Co.,Ltd.",stld,主板,SZSE,CNY,D,1998-08-25,2006-06-29,N,2024-04-22
+000835.SZ,000835,长动退(退),,,长城国际动漫游戏股份有限公司,"Great Wall International Acg Co., Ltd",cdt,主板,SZSE,CNY,D,1999-06-25,2022-05-23,N,2024-04-22
+000866.SZ,000866,扬子石化(退),,,中国石化扬子石油化工有限公司,"Sinopec Yangzi Petrochemical Co.,Ltd.",yzsh,主板,SZSE,CNY,D,1998-05-12,2006-04-21,N,2024-04-22
+000916.SZ,000916,华北高速(退),,,华北高速公路股份有限公司,"Huabei Expressway Co.,Ltd",hbgs,主板,SZSE,CNY,D,1999-09-27,2017-12-25,N,2024-04-22
+000918.SZ,000918,*ST嘉凯(退),,,嘉凯城集团股份有限公司,"China Calxon Group Co.,Ltd.",stjk,主板,SZSE,CNY,D,1999-07-20,2023-07-28,N,2024-04-22
+000939.SZ,000939,凯迪退(退),,,凯迪生态环境科技股份有限公司,"Kaidi Ecological and Environmental Technology Co.,Ltd.",kdt,主板,SZSE,CNY,D,1999-09-23,2020-12-17,N,2024-04-22
+000956.SZ,000956,中原油气(退),,,中国石化中原油气高新股份有限公司,"Sinopec Zhongyuan Petroleum Co., Ltd.",zyyq,主板,SZSE,CNY,D,1999-11-10,2006-04-21,N,2024-04-22
+000979.SZ,000979,中弘退(退),,,中弘控股股份有限公司,"Zhonghong Holding Co.,Ltd.",zht,主板,SZSE,CNY,D,2000-06-16,2018-12-28,N,2024-04-22
+002002.SZ,002002,ST鸿达(退),,,鸿达兴业股份有限公司,"Hongda Xingye Co.,Ltd.",sthd,主板,SZSE,CNY,D,2004-06-25,2024-03-18,N,2024-04-22
+002013.SZ,002013,中航机电(退),,,中航工业机电系统股份有限公司,"Avic Electromechanical Systems Co., Ltd.",zhjd,主板,SZSE,CNY,D,2004-07-05,2023-03-17,N,2024-04-22
+002018.SZ,002018,华信退(退),,,安徽华信国际控股股份有限公司,"CEFC Anhui International Holding Co., Ltd.",hxt,主板,SZSE,CNY,D,2004-07-13,2019-11-01,N,2024-04-22
+002070.SZ,002070,众和退(退),,,福建众和股份有限公司,"Zhonghe Co.,Ltd.",zht,主板,SZSE,CNY,D,2006-10-12,2019-07-09,N,2024-04-22
+002071.SZ,002071,长城退(退),,,长城影视股份有限公司,"Great Wall Movie and Television Co.,Ltd.",cct,主板,SZSE,CNY,D,2006-10-12,2021-05-07,N,2024-04-22
+002113.SZ,002113,*ST天润(退),,,湖南天润数字娱乐文化传媒股份有限公司,"Hunan Tianrun Digital Entertainment &Cultural Media Co.,Ltd.",sttr,主板,SZSE,CNY,D,2007-02-08,2023-08-11,N,2024-04-22
+002118.SZ,002118,*ST紫鑫(退),,,吉林紫鑫药业股份有限公司,"Jilin Zixin Pharmaceutical Industrial Co.,Ltd.",stzx,主板,SZSE,CNY,D,2007-03-02,2023-08-04,N,2024-04-22
+002143.SZ,002143,印纪退(退),,,印纪娱乐传媒股份有限公司,"Yinji Entertainment and Media Co., Ltd.",yjt,主板,SZSE,CNY,D,2007-07-20,2019-11-29,N,2024-04-22
+002147.SZ,002147,新光退(退),,,新光圆成股份有限公司,Neoglory Prosperity Inc.,xgt,主板,SZSE,CNY,D,2007-08-08,2022-06-23,N,2024-04-22
+002220.SZ,002220,天宝退(退),,,大连天宝绿色食品股份有限公司,"Dalian Tianbao Green Foods Co., Ltd.",tbt,主板,SZSE,CNY,D,2008-02-28,2020-08-11,N,2024-04-22
+002260.SZ,002260,德奥退(退),,,伊立浦集团股份有限公司,"Dea General Aviation Holding Co., Ltd.",dat,主板,SZSE,CNY,D,2008-07-16,2022-06-17,N,2024-04-22
+002359.SZ,002359,北讯退(退),,,北讯集团股份有限公司,"Northcom Group Co., Ltd.",bxt,主板,SZSE,CNY,D,2010-02-10,2021-07-23,N,2024-04-22
+002411.SZ,002411,必康退(退),,,延安必康制药股份有限公司,Yanan Bicon Pharmaceutical Listed Company,bkt,主板,SZSE,CNY,D,2010-05-25,2023-07-12,N,2024-04-22
+002417.SZ,002417,深南退(退),,,深南金科股份有限公司,"Suna Co.,Ltd",snt,主板,SZSE,CNY,D,2010-06-01,2023-07-10,N,2024-04-22
+002447.SZ,002447,晨鑫退(退),,,大连晨臻网络科技股份有限公司,"Dalian Chenzhen Network Technology Co.,Ltd",cxt,主板,SZSE,CNY,D,2010-07-13,2022-06-27,N,2024-04-22
+002450.SZ,002450,康得退(退),,,康得新复合材料集团股份有限公司,"Kangde Xin Composite Material Group Co.,Ltd.",kdt,主板,SZSE,CNY,D,2010-07-16,2021-05-31,N,2024-04-22
+002464.SZ,002464,众应退(退),,,众应互联科技股份有限公司,"Whole Easy Internet Technology Co., Ltd.",zyt,主板,SZSE,CNY,D,2010-08-31,2022-06-28,N,2024-04-22
+002473.SZ,002473,圣莱退(退),,,宁波圣莱达电器股份有限公司,"Ningbo Sunlight Electrical Appliance Co., Ltd",slt,主板,SZSE,CNY,D,2010-09-10,2022-06-22,N,2024-04-22
+002477.SZ,002477,雏鹰退(退),,,雏鹰农牧集团股份有限公司,"Chuying Agro-Pastoral Group Co.,Ltd",cyt,主板,SZSE,CNY,D,2010-09-15,2019-10-16,N,2024-04-22
+002499.SZ,002499,科林退(退),,,科林环保装备股份有限公司,"Kelin Environmental Protection Equipment,Inc.",klt,主板,SZSE,CNY,D,2010-11-09,2023-04-18,N,2024-04-22
+002503.SZ,002503,*ST搜特(退),,,搜于特集团股份有限公司,"Souyute Group Co., Ltd",stst,主板,SZSE,CNY,D,2010-11-17,2023-08-11,N,2024-04-22
+002504.SZ,002504,*ST弘高(退),,,北京弘高创意建筑设计股份有限公司,"Beijing Honggao Creative Architectural Design Co.,Ltd",sthg,主板,SZSE,CNY,D,2010-11-18,2023-08-21,N,2024-04-22
+002509.SZ,002509,天茂退(退),,,天广中茂股份有限公司,"TianGuang ZhongMao Co.,Ltd.",tmt,主板,SZSE,CNY,D,2010-11-23,2020-07-20,N,2024-04-22
+002604.SZ,002604,龙力退(退),,,山东龙力生物科技股份有限公司,"Shandong Longlive Bio-Technology Co.,Ltd.",llt,主板,SZSE,CNY,D,2011-07-28,2020-07-15,N,2024-04-22
+002618.SZ,002618,丹邦退(退),,,深圳丹邦科技股份有限公司,"Shenzhen Danbond Technology Co.,Ltd.",dbt,主板,SZSE,CNY,D,2011-09-20,2022-06-22,N,2024-04-22
+002619.SZ,002619,*ST艾格(退),,,艾格拉斯股份有限公司,"Egls Co.,Ltd.",stag,主板,SZSE,CNY,D,2011-09-29,2022-04-28,N,2024-04-22
+002680.SZ,002680,长生退(退),,,长生生物科技股份有限公司,"Changsheng Bio-Technology Co., Ltd.",cst,主板,SZSE,CNY,D,2012-06-05,2019-11-27,N,2024-04-22
+002684.SZ,002684,猛狮退(退),,,猛狮新能源科技(河南)股份有限公司,"Dynavolt Renewable Energy Technology (Henan) Co., Ltd.",mst,主板,SZSE,CNY,D,2012-06-12,2022-06-27,N,2024-04-22
+002711.SZ,002711,欧浦退(退),,,欧浦智网股份有限公司,"Europol Intelligent Network Co.,Ltd.",opt,主板,SZSE,CNY,D,2014-01-27,2021-07-15,N,2024-04-22
+002740.SZ,002740,*ST爱迪(退),,,福建省爱迪尔珠宝实业股份有限公司,"Fujian Ideal Jewellery Industrial Co.,Ltd.",stad,主板,SZSE,CNY,D,2015-01-22,2024-03-04,N,2024-04-22
+002751.SZ,002751,易尚退(退),,,深圳市易尚展示股份有限公司,"Shenzhen Esun Display Co., Ltd",yst,主板,SZSE,CNY,D,2015-04-24,2023-07-13,N,2024-04-22
+002770.SZ,002770,科迪退(退),,,河南科迪乳业股份有限公司,"Henan Kedi Dairy Co.,Ltd.",kdt,主板,SZSE,CNY,D,2015-06-30,2022-06-23,N,2024-04-22
+002776.SZ,002776,*ST柏龙(退),,,广东柏堡龙股份有限公司,"Guangdong Bobaolon Co.,Ltd.",stbl,主板,SZSE,CNY,D,2015-06-26,2024-01-25,N,2024-04-22
+002781.SZ,002781,奇信退(退),,,江西奇信集团股份有限公司,"Jiangxi Qixin Group Co., Ltd.",qxt,主板,SZSE,CNY,D,2015-12-22,2023-07-05,N,2024-04-22
+300023.SZ,300023,宝德退(退),,,西安宝德自动化股份有限公司,"Bode Energy Equipment Co., Ltd",bdt,创业板,SZSE,CNY,D,2009-10-30,2022-06-29,N,2024-04-22
+300028.SZ,300028,金亚退(退),,,金亚科技股份有限公司,"Geeya Technology Co.,Ltd",jyt,创业板,SZSE,CNY,D,2009-10-30,2020-08-03,N,2024-04-22
+300038.SZ,300038,数知退(退),,,北京数知科技股份有限公司,"Beijing Shuzhi Technology Co.,Ltd",szt,创业板,SZSE,CNY,D,2010-01-08,2022-06-30,N,2024-04-22
+300064.SZ,300064,金刚退(退),,,郑州华晶金刚石股份有限公司,"Zhengzhou Sino-Crystal Diamond Co., Ltd.",jgt,创业板,SZSE,CNY,D,2010-03-26,2022-06-27,N,2024-04-22
+300089.SZ,300089,文化退(退),,,广东文化长城集团股份有限公司,"The Great Wall of Culture Group Holding Co.,Ltd. Guangdong",wht,创业板,SZSE,CNY,D,2010-06-25,2023-07-13,N,2024-04-22
+300090.SZ,300090,盛运退(退),,,安徽盛运环保(集团)股份有限公司,"Anhui Shengyun Environment-Protection Group Co., Ltd",syt,创业板,SZSE,CNY,D,2010-06-25,2020-08-25,N,2024-04-22
+300104.SZ,300104,乐视退(退),,,乐视网信息技术(北京)股份有限公司,"Leshi Internet Information  Technology Corp.,Bei Jing",lst,创业板,SZSE,CNY,D,2010-08-12,2020-07-21,N,2024-04-22
+300156.SZ,300156,神雾退(退),,,神雾环保技术股份有限公司,"Shenwu Environmental Technology Co.,Ltd",swt,创业板,SZSE,CNY,D,2011-01-07,2020-08-25,N,2024-04-22
+300178.SZ,300178,腾邦退(退),,,腾邦国际商业服务集团股份有限公司,Tempus Global Business Service Group Holding Ltd.,tbt,创业板,SZSE,CNY,D,2011-02-15,2022-06-22,N,2024-04-22
+300186.SZ,300186,大华农(退),,,广东大华农动物保健品股份有限公司,"Guangdong Dahuanong Animal Health Products Co.,Ltd.",dhn,创业板,SZSE,CNY,D,2011-03-08,2015-11-02,N,2024-04-22
+300202.SZ,300202,聚龙退(退),,,聚龙股份有限公司,"Julong Co.,Ltd.",jlt,创业板,SZSE,CNY,D,2011-04-15,2022-07-04,N,2024-04-22
+300216.SZ,300216,千山退(退),,,湖南千山制药机械股份有限公司,"Hunan Chinasun Pharmaceutical Machinery Co.,Ltd.",qst,创业板,SZSE,CNY,D,2011-05-11,2020-09-16,N,2024-04-22
+300273.SZ,300273,和佳退(退),,,珠海和佳医疗设备股份有限公司,"Zhuhai Hokai Medical Instruments Co., Ltd.",hjt,创业板,SZSE,CNY,D,2011-10-26,2023-07-06,N,2024-04-22
+300297.SZ,300297,蓝盾退(退),,,蓝盾信息安全技术股份有限公司,"Bluedon Information Security Technologies Co.,Ltd.",ldt,创业板,SZSE,CNY,D,2012-03-15,2023-07-31,N,2024-04-22
+300309.SZ,300309,吉艾退(退),,,吉艾科技集团股份公司,"GI Technologies Group Co.,Ltd.",jat,创业板,SZSE,CNY,D,2012-04-10,2023-05-30,N,2024-04-22
+300312.SZ,300312,邦讯退(退),,,邦讯技术股份有限公司,"Boomsense Technology Co., Ltd.",bxt,创业板,SZSE,CNY,D,2012-05-08,2022-07-04,N,2024-04-22
+300325.SZ,300325,德威退(退),,,江苏德威新材料股份有限公司,"Jiangsu Dewei Advanced Materials Co.,Ltd",dwt,创业板,SZSE,CNY,D,2012-06-01,2022-06-28,N,2024-04-22
+300330.SZ,300330,计通退(退),,,上海华虹计通智能系统股份有限公司,"Shanghai Huahong Jitong Smart System Co.,Ltd.",jtt,创业板,SZSE,CNY,D,2012-06-19,2023-05-24,N,2024-04-22
+300336.SZ,300336,新文退(退),,,上海新文化传媒集团股份有限公司,"Shanghai New Culture Media Group Co., Ltd.",xwt,创业板,SZSE,CNY,D,2012-07-10,2023-07-05,N,2024-04-22
+300356.SZ,300356,光一退(退),,,光一科技股份有限公司,"Elefirst Science & Technology Co., Ltd.",gyt,创业板,SZSE,CNY,D,2012-10-09,2023-07-13,N,2024-04-22
+300362.SZ,300362,天翔退(退),,,成都天翔环境股份有限公司,"Chengdu Techcent Environment Co.,Ltd.",txt,创业板,SZSE,CNY,D,2014-01-21,2021-08-30,N,2024-04-22
+300367.SZ,300367,网力退(退),,,东方网力科技股份有限公司,"Netposa Technologies.,Ltd",wlt,创业板,SZSE,CNY,D,2014-01-29,2022-06-30,N,2024-04-22
+300372.SZ,300372,欣泰退(退),,,丹东欣泰电气股份有限公司,"Dandong Xintai Electric Co.,Ltd",xtt,创业板,SZSE,CNY,D,2014-01-27,2017-08-28,N,2024-04-22
+300392.SZ,300392,腾信退(退),,,北京腾信创新网络营销技术股份有限公司,Beijing Tensyn Digital Marketing Technology Joint Stock Company,txt,创业板,SZSE,CNY,D,2014-09-10,2023-07-10,N,2024-04-22
+300431.SZ,300431,暴风退(退),,,暴风集团股份有限公司,"Baofeng Group Co., Ltd.",bft,创业板,SZSE,CNY,D,2015-03-24,2020-11-10,N,2024-04-22
+300526.SZ,300526,中潜退(退),,,中潜股份有限公司,China Dive Company Limited,zqt,创业板,SZSE,CNY,D,2016-08-02,2023-07-12,N,2024-04-22
+600001.SH,600001,邯郸钢铁(退),,,邯郸钢铁股份有限公司,"Handan Iron & Steel Co.,Ltd.",hdgt,主板,SSE,CNY,D,1998-01-22,2009-12-29,N,2024-04-22
+600002.SH,600002,齐鲁石化(退),,,中国石化齐鲁股份有限公司,Sinopec Qilu Company Ltd.,qlsh,主板,SSE,CNY,D,1998-04-08,2006-04-24,N,2024-04-22
+600003.SH,600003,ST东北高(退),,,东北高速公路股份有限公司,Northeast Expressway Company Ltd.,stdbg,主板,SSE,CNY,D,1999-08-10,2010-02-26,N,2024-04-22
+600005.SH,600005,武钢股份(退),,,武汉钢铁股份有限公司,Wuhan Iron and Steel Company Limited,wggf,主板,SSE,CNY,D,1999-08-03,2017-02-14,N,2024-04-22
+600065.SH,600065,*ST联谊(退),,,黑龙江省海国龙油石化股份有限公司,"Heilongjiang Province Haiguolongyou Petrochemical Co.,Ltd",stly,主板,SSE,CNY,D,1997-05-23,2007-12-13,N,2024-04-22
+600068.SH,600068,葛洲坝(退),,,中国葛洲坝集团股份有限公司,China Gezhouba Group Company Limited,gzb,主板,SSE,CNY,D,1997-05-26,2021-09-13,N,2024-04-22
+600069.SH,600069,退银鸽(退),,,河南银鸽实业投资股份有限公司,"Henan Yinge Industrial Investment Co.,Ltd.",tsyg,主板,SSE,CNY,D,1997-04-30,2020-08-27,N,2024-04-22
+600074.SH,600074,退保千(退),,,江苏保千里视像科技集团股份有限公司,"Jiangsu Protruly Vision Technology Group Co., Ltd.",tsbq,主板,SSE,CNY,D,1997-06-23,2020-06-02,N,2024-04-22
+600077.SH,600077,*ST宋都(退),,,宋都基业投资股份有限公司,"Sundy Land Investment Co., Ltd",stsd,主板,SSE,CNY,D,1997-05-20,2023-07-25,N,2024-04-22
+600086.SH,600086,退金钰(退),,,东方金钰股份有限公司,"Eastern Gold Jade Co., Ltd",tsjy,主板,SSE,CNY,D,1997-06-06,2021-03-17,N,2024-04-22
+600087.SH,600087,退长油(退),,,招商局南京油运股份有限公司,Nanjing Tanker Corporation,cy,主板,SSE,CNY,D,1997-06-12,2014-06-05,N,2024-04-22
+600090.SH,600090,退济堂(退),,,新疆同济堂健康产业股份有限公司,"Xin Jiang Ready Health Industry Co.,Ltd.",tsjt,主板,SSE,CNY,D,1997-06-16,2022-07-07,N,2024-04-22
+600091.SH,600091,退明科(退),,,包头明天科技股份有限公司,"Baotou Tomorrow Technology Co.,Ltd",tsmk,主板,SSE,CNY,D,1997-07-04,2022-06-21,N,2024-04-22
+600092.SH,600092,S*ST精密(退),,,陕西精密合金股份有限公司,"Shaanxi Precision Alloy Co.,Ltd.",sstjm,主板,SSE,CNY,D,1997-06-26,2006-11-30,N,2024-04-22
+600093.SH,600093,退易见(退),,,易见供应链管理股份有限公司,"Easy Visible Supply Chain Management Co.,Ltd.",tsyj,主板,SSE,CNY,D,1997-06-26,2022-06-23,N,2024-04-22
+600102.SH,600102,莱钢股份(退),,,莱芜钢铁股份有限公司,Laiwu Steel Corporation,lggf,主板,SSE,CNY,D,1997-08-28,2012-02-28,N,2024-04-22
+600122.SH,600122,*ST宏图(退),,,江苏宏图高科技股份有限公司,"Jiangsu Hongtu High Technology Co.,Ltd.",stht,主板,SSE,CNY,D,1998-04-20,2023-06-26,N,2024-04-22
+600139.SH,600139,*ST西源(退),,,内蒙古西部资源股份公司,"Inner Mongolia Western Resources Co., Ltd",stxy,主板,SSE,CNY,D,1998-02-25,2023-03-27,N,2024-04-22
+600145.SH,600145,退新亿(退),,,新疆亿路万源实业控股股份有限公司,"Xinjiang Yilu Wanyuan Industrial Investment Holding Co., Ltd.",tsxy,主板,SSE,CNY,D,1999-09-23,2022-04-28,N,2024-04-22
+600146.SH,600146,退环球(退),,,商赢环球股份有限公司,"Shangying Global Co., Ltd",tshq,主板,SSE,CNY,D,1999-07-07,2022-06-30,N,2024-04-22
+600175.SH,600175,退美都(退),,,美都控股股份有限公司,"Meidu Holding Co.,Ltd",tsmd,主板,SSE,CNY,D,1999-04-08,2020-08-14,N,2024-04-22
+600181.SH,600181,*ST云大(退),,,云大科技有限责任公司,"Unida Co.,Ltd.",styd,主板,SSE,CNY,D,1998-09-28,2007-06-01,N,2024-04-22
+600205.SH,600205,S山东铝(退),,,山东铝业股份有限公司,"Shandong Aluminium Industry Co.,Ltd.",ssdl,主板,SSE,CNY,D,1999-06-30,2007-04-30,N,2024-04-22
+600209.SH,600209,退罗顿(退),,,罗顿发展股份有限公司,"Lawton Development Co.,Ltd",tsld,主板,SSE,CNY,D,1999-03-25,2022-06-22,N,2024-04-22
+600240.SH,600240,退华业(退),,,北京华业资本控股股份有限公司,"Beijing Huaye Capital Holdings Co.,Ltd",tshy,主板,SSE,CNY,D,2000-06-28,2020-02-05,N,2024-04-22
+600242.SH,600242,退中昌(退),,,中昌大数据股份有限公司,Zhongchang Big Data Corporation Limited,tszc,主板,SSE,CNY,D,2000-12-07,2023-06-29,N,2024-04-22
+600247.SH,600247,*ST成城(退),,,吉林成城集团股份有限公司,"Jilin Chengcheng Group Co.,Ltd.",stcc,主板,SSE,CNY,D,2000-11-23,2021-03-22,N,2024-04-22
+600253.SH,600253,天方药业(退),,,河南天方药业股份有限公司,"Henan Topfond Pharmaceutical Co.,Ltd.",tfyy,主板,SSE,CNY,D,2000-12-27,2013-07-15,N,2024-04-22
+600260.SH,600260,*ST凯乐(退),,,湖北凯乐科技股份有限公司,"Kaile Science and Technology Co.,Ltd.Hubei",stkl,主板,SSE,CNY,D,2000-07-06,2023-02-15,N,2024-04-22
+600263.SH,600263,路桥建设(退),,,路桥集团国际建设股份有限公司,"Road & Bridge International Co.,Ltd",lqjs,主板,SSE,CNY,D,2000-07-25,2012-03-01,N,2024-04-22
+600270.SH,600270,外运发展(退),,,中外运空运发展股份有限公司,"Sinotrans Air Transportation Development Co.,Ltd",wyfz,主板,SSE,CNY,D,2000-12-28,2018-12-28,N,2024-04-22
+600275.SH,600275,退昌鱼(退),,,湖北武昌鱼股份有限公司,"Hubei Wuchangyu Co.,Ltd.",tscy,主板,SSE,CNY,D,2000-08-10,2022-06-22,N,2024-04-22
+600286.SH,600286,S*ST国瓷(退),,,湖南国光瓷业集团股份有限公司,"Hunan Guoguang Ceramic Group Co.,Ltd",sstgc,主板,SSE,CNY,D,1999-12-09,2007-05-31,N,2024-04-22
+600290.SH,600290,*ST华仪(退),,,华仪电气股份有限公司,Huayi Electric Company Limited,sthy,主板,SSE,CNY,D,2000-11-06,2024-01-16,N,2024-04-22
+600291.SH,600291,退西水(退),,,内蒙古西水创业股份有限公司,"Xishui Strong Year Co.,Ltd Inner Mongolia",tsxs,主板,SSE,CNY,D,2000-07-31,2022-06-14,N,2024-04-22
+600296.SH,600296,S兰铝(退),,,兰州铝业股份有限公司,"Lanzhou Aluminium Co.,Ltd",sll,主板,SSE,CNY,D,2000-07-19,2007-04-30,N,2024-04-22
+600311.SH,600311,*ST荣华(退),,,甘肃荣华实业(集团)股份有限公司,"Gansu Ronghua Industry Group Co.,Ltd.",strh,主板,SSE,CNY,D,2001-06-26,2023-03-27,N,2024-04-22
+600317.SH,600317,营口港(退),,,营口港务股份有限公司,"Yingkou Port Liability Co.,Ltd",ykg,主板,SSE,CNY,D,2002-01-31,2021-01-29,N,2024-04-22
+600357.SH,600357,承德钒钛(退),,,承德新新钒钛股份有限公司,"Chengde Xinxin Vanadium and Titanium Co., Ltd",cdft,主板,SSE,CNY,D,2002-09-06,2009-12-29,N,2024-04-22
+600385.SH,600385,退金泰(退),,,山东金泰集团股份有限公司,"Shandong Jintai Group Co.,Ltd.",tsjt,主板,SSE,CNY,D,2001-07-23,2022-07-07,N,2024-04-22
+600393.SH,600393,ST粤泰(退),,,广州粤泰集团股份有限公司,"Guangzhou Yuetai Group Co.,Ltd.",styt,主板,SSE,CNY,D,2001-03-19,2023-07-18,N,2024-04-22
+600401.SH,600401,退海润(退),,,海润光伏科技股份有限公司,"Hareon Solar Technology Co.,Ltd.",tshr,主板,SSE,CNY,D,2003-09-24,2019-07-12,N,2024-04-22
+600432.SH,600432,退吉恩(退),,,吉林吉恩镍业股份有限公司,"Ji Lin Ji En Nickel Industry Co., Ltd.",tsje,主板,SSE,CNY,D,2003-09-05,2018-07-13,N,2024-04-22
+600466.SH,600466,*ST蓝光(退),,,四川蓝光发展股份有限公司,"Sichuan Languang Development Co., Ltd.",stlg,主板,SSE,CNY,D,2001-02-12,2023-06-06,N,2024-04-22
+600472.SH,600472,包头铝业(退),,,包头铝业股份有限公司,"Baotou Aluminium Co.,Ltd.",btly,主板,SSE,CNY,D,2005-05-09,2007-12-26,N,2024-04-22
+600485.SH,600485,*ST信威(退),,,北京信威科技集团股份有限公司,"Beijing Xinwei Technology Group Co., Ltd.",stxw,主板,SSE,CNY,D,2003-08-07,2021-06-01,N,2024-04-22
+600532.SH,600532,退未来(退),,,上海智汇未来医疗服务股份有限公司,"Shanghai Topcare Medical Services Co., Ltd.",tswl,主板,SSE,CNY,D,2002-10-31,2023-06-28,N,2024-04-22
+600553.SH,600553,太行水泥(退),,,河北太行水泥股份有限公司,"Hebei Taihang Cement Co.,Ltd.",thsn,主板,SSE,CNY,D,2002-08-22,2011-02-18,N,2024-04-22
+600555.SH,600555,退海创(退),,,海航创新股份有限公司,"Hna Innovation Co.,Ltd.",tshc,主板,SSE,CNY,D,2001-03-28,2022-07-13,N,2024-04-22
+600591.SH,600591,*ST上航(退),,,上海航空股份有限公司,Shanghai Airlines Company Limited,stsh,主板,SSE,CNY,D,2002-10-11,2010-01-25,N,2024-04-22
+600607.SH,600607,上实医药(退),,,上海实业医药投资股份有限公司,"Shanghai Industrial Pharmaceutical Investment Co., Ltd.",ssyy,主板,SSE,CNY,D,1992-03-27,2010-02-12,N,2024-04-22
+600614.SH,600614,退鹏起(退),,,鹏起科技发展股份有限公司,"Pengqi Technology Development Co., Ltd",tspq,主板,SSE,CNY,D,1992-08-28,2021-07-21,N,2024-04-22
+600625.SH,600625,PT水仙(退),,,上海水仙电器股份有限公司,"Shanghai Narcissus Electric Appliances Co.,Ltd.",ptsx,主板,SSE,CNY,D,1993-01-06,2001-04-23,N,2024-04-22
+600627.SH,600627,上电股份(退),,,上海输配电股份有限公司,"Shanghai Power Transmission & Distribution Co.,Ltd.",sdgf,主板,SSE,CNY,D,1993-01-18,2008-11-26,N,2024-04-22
+600631.SH,600631,百联股份(退),,,上海百联集团股份有限公司(原),"Shanghai Bailian Group Co.,Ltd.",blgf,主板,SSE,CNY,D,1993-02-19,2011-08-23,N,2024-04-22
+600632.SH,600632,华联商厦(退),,,上海华联商厦股份有限公司,"Shanghai Hua Lian Co.,Ltd.",hlss,主板,SSE,CNY,D,1993-02-19,2004-11-18,N,2024-04-22
+600634.SH,600634,退富控(退),,,上海富控互动娱乐股份有限公司,"Shanghai Fukong Interactive Entertainment Co.,Ltd",tsfk,主板,SSE,CNY,D,1993-03-04,2021-07-21,N,2024-04-22
+600646.SH,600646,ST国嘉(退),,,上海国嘉实业股份有限公司,"Shanghai Citic-Jiading Industrial Co.,Ltd.",stgj,主板,SSE,CNY,D,1993-05-04,2003-09-22,N,2024-04-22
+600652.SH,600652,退游久(退),,,上海域潇稀土股份有限公司,"Shanghai Seaside Xiao Rare Earth Co., Ltd.",tsyj,主板,SSE,CNY,D,1990-12-19,2022-06-21,N,2024-04-22
+600656.SH,600656,退博元(退),,,亚美控股集团股份有限公司,"Yame Holding Groupco., Ltd",tsby,主板,SSE,CNY,D,1990-12-19,2016-05-13,N,2024-04-22
+600659.SH,600659,*ST花雕(退),,,辽宁闽越花雕股份有限公司,"Liaoning Minyue Huadiao Co.,Ltd",sthd,主板,SSE,CNY,D,1993-05-28,2006-03-23,N,2024-04-22
+600669.SH,600669,*ST鞍成(退),,,鞍山合成(集团)股份有限公司,"Anshan Co—Operation (Group) Co.,Ltd",stac,主板,SSE,CNY,D,1993-08-06,2004-09-15,N,2024-04-22
+600670.SH,600670,*ST斯达(退),,,长春高斯达生物科技集团股份有限公司,"Changchun Goldenstar Biotech Group Co.,Ltd.",stsd,主板,SSE,CNY,D,1993-08-09,2004-09-24,N,2024-04-22
+600672.SH,600672,*ST华圣(退),,,广东华圣科技投资股份有限公司,"Guangdong Huasheng Scienc-Technology Investment Co.,Ltd.",sths,主板,SSE,CNY,D,1993-09-17,2005-08-05,N,2024-04-22
+600677.SH,600677,*ST航通(退),,,航天通信控股集团股份有限公司,"Aerospace Communications Holdings Co.,Ltd.",stht,主板,SSE,CNY,D,1993-09-28,2021-03-18,N,2024-04-22
+600680.SH,600680,*ST上普(退),,,上海普天邮通科技股份有限公司,"Shanghai Potevio Co.,Ltd.",stsp,主板,SSE,CNY,D,1993-10-18,2019-05-24,N,2024-04-22
+600687.SH,600687,退刚泰(退),,,甘肃刚泰控股(集团)股份有限公司,"Gansu Gangtai Holding(Group) Co.,Ltd",tsgt,主板,SSE,CNY,D,1993-11-08,2021-03-03,N,2024-04-22
+600695.SH,600695,退绿庭(退),,,上海绿庭投资控股集团股份有限公司,"Shanghai Greencourt Investment Group Co., Ltd.",tslt,主板,SSE,CNY,D,1993-11-22,2022-06-14,N,2024-04-22
+600700.SH,600700,*ST数码(退),,,陕西煤航数码测绘(集团)股份有限公司,"Shaanxi Meihang Digital Surveying (Group) Co.,Ltd",stsm,主板,SSE,CNY,D,1996-04-30,2005-09-20,N,2024-04-22
+600701.SH,600701,退工新(退),,,哈尔滨工大高新技术产业开发股份有限公司,"Harbin Gong Da High-Tech Enterprise Development Co.,Ltd",tsgx,主板,SSE,CNY,D,1996-05-28,2021-04-30,N,2024-04-22
+600709.SH,600709,ST生态(退),,,湖北洪湖生态农业股份有限公司,"Hubei Honghu Ecological Agriculture Co.,Ltd.",stst,主板,SSE,CNY,D,1996-06-18,2003-05-23,N,2024-04-22
+600723.SH,600723,首商股份(退),,,北京首商集团股份有限公司,"Beijing Capital Retailing Group Co., Ltd.",ssgf,主板,SSE,CNY,D,1996-07-16,2021-10-22,N,2024-04-22
+600747.SH,600747,退大控(退),,,湖南明瑞生和控股股份有限公司,"Hunan Prosperous And Harmonious Holdings Co., Ltd",tsdk,主板,SSE,CNY,D,1996-09-16,2019-12-12,N,2024-04-22
+600752.SH,600752,*ST哈慈(退),,,哈慈股份有限公司,Haci Company Limited,sthc,主板,SSE,CNY,D,1996-09-25,2005-09-22,N,2024-04-22
+600762.SH,600762,S*ST金荔(退),,,衡阳市金荔科技农业股份有限公司,"Hunan Hengyang Jinli Technology (Agricultural) Co., Ltd.",sstjl,主板,SSE,CNY,D,1996-10-25,2007-11-20,N,2024-04-22
+600767.SH,600767,退运盛(退),,,运盛(成都)医疗科技股份有限公司,"Winsan(Chengdu) Medical Science and Technology Co.,Ltd.",tsys,主板,SSE,CNY,D,1996-11-15,2023-06-29,N,2024-04-22
+600772.SH,600772,S*ST龙昌(退),,,中油龙昌股份有限公司,"Long Champ Co.,Ltd",sstlc,主板,SSE,CNY,D,1996-11-04,2006-11-30,N,2024-04-22
+600781.SH,600781,退辅仁(退),,,辅仁药业集团制药股份有限公司,"FUREN Group Pharmaceutical Co., Ltd.",tsfr,主板,SSE,CNY,D,1996-12-18,2023-06-28,N,2024-04-22
+600786.SH,600786,东方锅炉(退),,,东方电气集团东方锅炉股份有限公司,"Dongfang Boiler Group Co., Ltd.",dfgl,主板,SSE,CNY,D,1996-12-27,2008-03-18,N,2024-04-22
+600788.SH,600788,*ST达曼(退),,,西安达尔曼实业股份有限公司,"Xi'An Diamond Co.,Ltd.",stdm,主板,SSE,CNY,D,1996-12-30,2005-03-25,N,2024-04-22
+600799.SH,600799,*ST龙科(退),,,黑龙江省科利华网络股份有限公司,"Heilongjiang Clever Net Corp.,Ltd.",stlk,主板,SSE,CNY,D,1997-04-16,2006-01-04,N,2024-04-22
+600806.SH,600806,退昆机(退),,,通用技术集团昆明机床股份有限公司,"Genertec Kunming Machine Tool Co.,Ltd.",tskj,主板,SSE,CNY,D,1994-01-03,2018-07-13,N,2024-04-22
+600813.SH,600813,ST鞍一工(退),,,华夏大地(上海)环保科技股份有限公司,"Liaoning Sino-Ground Ecological Technology Co.,Ltd.",stayg,主板,SSE,CNY,D,1994-01-14,2002-09-16,N,2024-04-22
+600832.SH,600832,东方明珠(退),,,上海东方明珠(集团)股份有限公司,"Shanghai Oriental Pearl (Group) Co.,Ltd.",dfmz,主板,SSE,CNY,D,1994-02-24,2015-05-20,N,2024-04-22
+600840.SH,600840,新湖创业(退),,,浙江新湖创业投资股份有限公司,"Zhejiang Xinhu Venture Investment Co.,Ltd.",xhcy,主板,SSE,CNY,D,1994-03-11,2009-08-27,N,2024-04-22
+600842.SH,600842,中西药业(退),,,上海中西药业股份有限公司,"Shanghai Zhong Xi Pharmaceutical Co.,Ltd.",zxyy,主板,SSE,CNY,D,1994-03-11,2010-02-12,N,2024-04-22
+600852.SH,600852,*ST中川(退),,,中国四川国际合作股份有限公司,"China Sichuan International Cooperation Co., Ltd.",stzc,主板,SSE,CNY,D,1994-04-04,2005-09-16,N,2024-04-22
+600856.SH,600856,退中天(退),,,中兴天恒能源科技(北京)股份公司,"Zhongxing Tianheng Energy Technology(Beijing) Co.,Ltd.",tszt,主板,SSE,CNY,D,1994-04-25,2022-06-22,N,2024-04-22
+600870.SH,600870,退厦华(退),,,世秾泰字节科技股份有限公司,"Shinongtai Byte Technology Co., Ltd",tsxh,主板,SSE,CNY,D,1995-02-28,2022-06-30,N,2024-04-22
+600878.SH,600878,*ST北科(退),,,湖南蓝璟科技集团股份有限公司,"Hunan Lanjing Technology Group Co., Ltd",stbk,主板,SSE,CNY,D,1995-10-13,2004-09-15,N,2024-04-22
+600890.SH,600890,退中房(退),,,中房置业股份有限公司,"CRED Holding Co.,Ltd",tszf,主板,SSE,CNY,D,1996-03-18,2022-06-21,N,2024-04-22
+600891.SH,600891,退秋林(退),,,哈尔滨秋林集团股份有限公司,"Harbin Churin Group Jointstock Co.,Ltd.",tsql,主板,SSE,CNY,D,1996-03-25,2021-05-12,N,2024-04-22
+600896.SH,600896,退海医(退),,,览海医疗产业投资股份有限公司,"Lanhai Medical Investment Co.,Ltd.",tshy,主板,SSE,CNY,D,1996-05-03,2022-07-25,N,2024-04-22
+600899.SH,600899,*ST信联(退),,,浙江信联股份有限公司,"Zhejiang Xinlian Co.,Ltd.",stxl,主板,SSE,CNY,D,1996-04-26,2005-09-21,N,2024-04-22
+600978.SH,600978,*ST宜生(退),,,宜华生活科技股份有限公司,"Yihua Lifestyle Technology Co., Ltd.",stys,主板,SSE,CNY,D,2004-08-24,2021-03-22,N,2024-04-22
+600991.SH,600991,广汽长丰(退),,,广汽长丰汽车有限公司,"GAC Changfeng Motor Co.,Ltd.",gqcf,主板,SSE,CNY,D,2004-06-14,2012-03-20,N,2024-04-22
+601258.SH,601258,*ST庞大(退),,,庞大汽贸集团股份有限公司,"Pang Da Automobile Trade Co., Ltd",stpd,主板,SSE,CNY,D,2011-04-28,2023-06-30,N,2024-04-22
+601268.SH,601268,*ST二重(退),,,国机重型装备集团股份有限公司,"Sinomach Heavy Equipment Group Co.,Ltd.",stez,主板,SSE,CNY,D,2010-02-02,2015-05-21,N,2024-04-22
+601299.SH,601299,中国北车(退),,,中国北车股份有限公司,China CNR Corporation Limited,zgbc,主板,SSE,CNY,D,2009-12-29,2015-05-20,N,2024-04-22
+601558.SH,601558,退锐电(退),,,华锐风电科技(集团)股份有限公司,"Sinovel Wind Group Co., Ltd.",tsrd,主板,SSE,CNY,D,2011-01-13,2020-07-02,N,2024-04-22
+603157.SH,603157,退拉夏(退),,,新疆拉夏贝尔服饰股份有限公司,"Xinjiang LaChapelle Fashion Co.,Ltd",tslx,主板,SSE,CNY,D,2017-09-25,2022-05-24,N,2024-04-22
+603555.SH,603555,ST贵人(退),,,贵人鸟股份有限公司,"Guirenniao Co.,Ltd.",stgr,主板,SSE,CNY,D,2014-01-24,2024-03-29,N,2024-04-22
+603996.SH,603996,退中新(退),,,中新科技集团股份有限公司,"Chunghsin Technology Group Co., Ltd",tszx,主板,SSE,CNY,D,2015-12-22,2022-05-24,N,2024-04-22
+688086.SH,688086,退紫晶(退),,,广东紫晶信息存储技术股份有限公司,"Amethystum Storage Technology Co.,Ltd.",tszj,科创板,SSE,CNY,D,2020-02-26,2023-07-07,N,2024-04-22
+688555.SH,688555,退泽达(退),,,泽达易盛(天津)科技股份有限公司,"Essence Information Technology Co., Ltd.",tszd,科创板,SSE,CNY,D,2020-06-23,2023-07-07,N,2024-04-22
+832317.BJ,832317,观典防务(退),,,观典防务技术股份有限公司,"Guandian Defense Technology Co.,Ltd.",gdfw,北交所,BSE,CNY,D,2020-07-27,2022-04-26,N,2024-04-22
+833874.BJ,833874,泰祥股份(退),,,十堰市泰祥实业股份有限公司,"Shiyan Taixiang Industry Co., Ltd",txgf,北交所,BSE,CNY,D,2020-07-27,2022-07-18,N,2024-04-22
+833994.BJ,833994,翰博高新(退),,,翰博高新材料(合肥)股份有限公司,"Highbroad Advanced Material(Hefei) Co., Ltd",hbgx,北交所,BSE,CNY,D,2020-07-27,2022-07-25,N,2024-04-22
+T00018.SH,T00018,上港集箱(退),,,上海港集装箱股份有限公司,"Shanghai Port Container Co., Ltd.",sgjx,,SSE,CNY,D,2000-07-19,2006-10-20,N,2024-04-22
